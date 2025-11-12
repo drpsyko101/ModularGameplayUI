@@ -43,6 +43,7 @@ public class ModularGameplayUI : ModuleRules
 				"CommonUser",
 				"ControlFlows",
 				"CoreUObject",
+				"DeveloperSettings",
 				"Engine",
 				"GameFeatures",
 				"GameplayAbilities",
